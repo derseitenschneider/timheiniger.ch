@@ -3,7 +3,7 @@ name: 🚀 Deploy staging on push dev
 on:
   push:
     branches:
-      - dev
+      - main
 
 jobs:
   web-deploy:
