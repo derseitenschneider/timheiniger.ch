@@ -1,0 +1,19 @@
+{
+  "name": "timheiniger.ch",
+  "version": "1.0.0",
+  "description": "Website of the swiss pianist Tim Heiniger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derseitenschneider/timheiniger.ch.git"
+  },
+  "author": "Brian Boy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derseitenschneider/timheiniger.ch/issues"
+  },
+  "homepage": "https://github.com/derseitenschneider/timheiniger.ch#readme"
+}

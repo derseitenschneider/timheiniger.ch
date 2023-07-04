@@ -13,7 +13,11 @@ Text Domain:  bitacorachild
 */
 
 html {
-  scroll-behavior: smooth;
+	scroll-behavior: smooth;
+}
+
+body {
+	background-color: red;
 }
 
 
