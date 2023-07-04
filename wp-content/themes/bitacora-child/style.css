@@ -1,0 +1,41 @@
+/*
+Theme Name:   Bitacora Child
+Theme URI:    https://derseitenschneider.ch
+Description:  Bitacora Child Theme
+Author:       Brian Boy
+Author URI:   https: //derseitenschneider.ch
+Template:     bitacora 
+Version:      1.0.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain:  bitacorachild
+*/
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+
+.container-event {
+	background-color: var(--wp--preset--color--background);
+	padding: 16px;
+}
+
+.row-1 {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.row-2 {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	align-items: center;
+}
+
+.date {
+	font-size: 1.4em;
+
+}
